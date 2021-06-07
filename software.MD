@@ -8,6 +8,7 @@
 - [ ] [Mozilla Firefox](https://www.mozilla.org/firefox)
 - [ ] [Insomnia](https://insomnia.rest/)
 - [ ] [Docker](https://www.docker.com/)
+- [ ] [Docker Compose](https://docs.docker.com/compose/)
 - [ ] [DockStation](https://dockstation.io/)
 - [ ] [Github cli](https://github.com/cli/cli)
 - [ ] [Fish shell](https://fishshell.com/)
