@@ -34,6 +34,16 @@
 - [ ] [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) `ext install wayou.vscode-todo-highlight`
 - [ ] [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) `ext install Lokalise.i18n-ally`
 
+## Terminal apps
+
+- [ ] `nano` [nano - text editor](https://www.nano-editor.org/)
+- [ ] `mc` [Midnight Commander - visual file manager](https://midnight-commander.org/)
+- [ ] `htop` [htop - an interactive process viewer](https://htop.dev/)
+- [ ] `tinypng-cli` [tool for shrinking PNG images](https://www.npmjs.com/package/tinypng-cli)
+- [ ] `speedtest` [Internet connection measurement](https://www.speedtest.net/apps/cli)
+- [ ] `git-standup` [https://github.com/kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup)
+- [ ] `whois`
+
 ## Handy
 
 - [Script for automatic node.js version change](https://github.com/nvm-sh/nvm#deeper-shell-integration)
