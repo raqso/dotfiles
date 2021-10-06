@@ -44,6 +44,12 @@
 - [ ] `git-standup` [https://github.com/kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup)
 - [ ] `whois`
 
+## Insomnia plugins
+
+- [ ] [insomnia-plugin-multiple-requests](https://www.npmjs.com/package/insomnia-plugin-multiple-requests)
+- [ ] [insomnia-plugin-faker](https://www.npmjs.com/package/insomnia-plugin-faker)
+- [ ] [insomnia-plugin-prompt](https://www.npmjs.com/package/insomnia-plugin-prompt)
+
 ## Handy
 
 - [Script for automatic node.js version change](https://github.com/nvm-sh/nvm#deeper-shell-integration)
