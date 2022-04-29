@@ -35,6 +35,8 @@
 - [ ] [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) `ext install sburg.vscode-javascript-booster`
 - [ ] [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) `ext install wayou.vscode-todo-highlight`
 - [ ] [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) `ext install Lokalise.i18n-ally`
+vscode-todo-highlight`
+- [ ] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) `ext install streetsidesoftware.code-spell-checker`
 
 ## Terminal apps
 
